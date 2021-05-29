@@ -1,0 +1,24 @@
+.name{
+    position: relative;
+    left: 100px;
+    top: -30px;
+}
+#username{
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+#send{
+    position: relative;
+    left: 100px;
+    top: 60px;
+}
+#text{
+    position: relative;
+    left: 100px;
+
+}
+.contents{
+    position: relative;
+    left: 100px;
+}
